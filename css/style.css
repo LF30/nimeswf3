@@ -6,4 +6,5 @@ body
 h1
 {
 	color: yellow;
+	text-shadow: 2px 2px 2px green;
 }
